@@ -18,7 +18,7 @@ The pinned repositories below feature my finest work; do take a moment to check 
 
 **Backend & APIs**
 
-<p><img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/WordPress-111111?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"> <img src="https://img.shields.io/badge/XAMPP-111111?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"></p>
+<p><img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/WordPress-111111?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"> <img src="https://img.shields.io/badge/XAMPP-111111?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"></p>
 
 **Databases & Storage**
 
